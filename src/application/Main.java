@@ -1,5 +1,5 @@
 package application;
-	
+// 채팅 gui  java fx 필요 
 
 import java.net.InetSocketAddress;
 import java.net.ServerSocket;
@@ -20,7 +20,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-
+// 채팅 서버 main 
 
 public class Main extends Application {
 	
